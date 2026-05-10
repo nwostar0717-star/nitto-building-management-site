@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nwostar0717-star.github.io/nitto-building-management-site/sitemap.xml
