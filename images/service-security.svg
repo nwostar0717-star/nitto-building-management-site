@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+  <title id="title">警備</title>
+  <desc id="desc">建物の警備と安全確認を表すイラスト</desc>
+  <rect width="520" height="360" rx="18" fill="#eaf3fb"/>
+  <rect x="80" y="84" width="150" height="206" rx="10" fill="#ffffff" stroke="#b8d1e8" stroke-width="4"/>
+  <rect x="108" y="112" width="30" height="28" rx="4" fill="#1e65a8"/>
+  <rect x="156" y="112" width="30" height="28" rx="4" fill="#79b3df"/>
+  <rect x="108" y="160" width="78" height="34" rx="4" fill="#d7e8f7"/>
+  <rect x="126" y="214" width="54" height="76" rx="5" fill="#174b83"/>
+  <path d="M326 74l86 34v66c0 70-38 112-86 136-48-24-86-66-86-136v-66z" fill="#ffffff" stroke="#1e65a8" stroke-width="8"/>
+  <path d="M286 180l30 30 62-74" fill="none" stroke="#f47d32" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="408" cy="96" r="16" fill="#f47d32"/>
+  <path d="M70 310h380" stroke="#b8d1e8" stroke-width="8" stroke-linecap="round"/>
+</svg>

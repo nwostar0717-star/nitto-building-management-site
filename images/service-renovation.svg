@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+  <title id="title">リフォーム・修繕</title>
+  <desc id="desc">内装リフォームと修繕作業を表すイラスト</desc>
+  <rect width="520" height="360" rx="18" fill="#edf5fb"/>
+  <rect x="68" y="74" width="228" height="190" rx="10" fill="#ffffff" stroke="#b8d1e8" stroke-width="4"/>
+  <rect x="92" y="100" width="78" height="136" rx="6" fill="#d7e8f7"/>
+  <rect x="190" y="100" width="78" height="56" rx="6" fill="#1e65a8"/>
+  <rect x="190" y="178" width="78" height="58" rx="6" fill="#79b3df"/>
+  <path d="M330 110l52 52-98 98-52 14 14-52z" fill="#f47d32"/>
+  <path d="M382 162l22-22a18 18 0 000-25l-10-10a18 18 0 00-25 0l-22 22z" fill="#174b83"/>
+  <path d="M246 222l38 38" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <rect x="322" y="238" width="128" height="28" rx="14" fill="#174b83"/>
+  <rect x="352" y="266" width="68" height="26" rx="7" fill="#79b3df"/>
+  <path d="M70 306h380" stroke="#b8d1e8" stroke-width="8" stroke-linecap="round"/>
+</svg>

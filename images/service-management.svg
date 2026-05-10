@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+  <title id="title">管理業</title>
+  <desc id="desc">管理書類と建物管理を表すイラスト</desc>
+  <rect width="520" height="360" rx="18" fill="#edf5fb"/>
+  <rect x="82" y="78" width="154" height="218" rx="10" fill="#ffffff" stroke="#b8d1e8" stroke-width="4"/>
+  <rect x="108" y="108" width="32" height="30" rx="4" fill="#79b3df"/>
+  <rect x="156" y="108" width="32" height="30" rx="4" fill="#1e65a8"/>
+  <rect x="108" y="158" width="80" height="36" rx="4" fill="#d7e8f7"/>
+  <rect x="128" y="216" width="44" height="80" rx="5" fill="#174b83"/>
+  <rect x="282" y="72" width="124" height="168" rx="10" fill="#ffffff" stroke="#1e65a8" stroke-width="6"/>
+  <path d="M310 116h70M310 150h70M310 184h44" stroke="#b8d1e8" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="300" cy="116" r="8" fill="#f47d32"/>
+  <circle cx="300" cy="150" r="8" fill="#f47d32"/>
+  <circle cx="300" cy="184" r="8" fill="#f47d32"/>
+  <path d="M330 266c20-28 56-28 76 0" fill="none" stroke="#174b83" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="368" cy="246" r="24" fill="#79b3df"/>
+  <path d="M70 310h380" stroke="#b8d1e8" stroke-width="8" stroke-linecap="round"/>
+</svg>
